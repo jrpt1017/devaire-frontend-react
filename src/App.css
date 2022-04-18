@@ -36,3 +36,101 @@
     transform: rotate(360deg);
   }
 }
+
+/* App Stylings */
+
+/* Footer */
+#footer-container {
+  width: 1600px;
+  height: 142px;
+  padding: 44px 229px 46px 230px;
+  background-color: #000;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+.BG {
+  /* width: 1600px;
+  height: 3704px;
+  margin: 0 0 1px;
+  padding: 0 0 144px; */
+}
+
+.slider {
+  width: 1600px;
+  height: 697px;
+  margin: 0 0 165px;
+  padding: 20px 0 226px;
+  background-color: lightblue;
+}
+
+.FEATURES-OVERVIEW {
+  /* width: 335px; */
+  height: 23px;
+  /* margin: 165px 59px 39px 68px; */
+  font-family: Raleway;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.03;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444;
+}
+
+.Some-of-the-Features-that-are-gonna-blow-your-mind-off {
+  /* width: 578px; */
+  height: 21px;
+  margin: 39px 502px 58px 25px;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: center;
+  margin: auto;
+  color: #444;
+}
+
+.Powerful-Layout-with-Responsive-functionality-that-can-be-adapt {
+  width: 337px;
+  height: 39px;
+  margin-left: 19px;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.79;
+  letter-spacing: normal;
+  text-align: left;
+  color: #999;
+}
+
+.RESPONSIVE-LAYOUT {
+   width: 180px;
+  height: 11px;
+  /* margin: 67px 78px 28px 17px;  */
+  font-family: Raleway;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.47;
+  letter-spacing: 0.75px;
+  text-align: left;
+  color: #333;
+  margin-left: 17px;
+  margin-bottom: 28px;
+  margin-top: 67px;
+}
+
+.featured-item-container {
+  display: flex;
+  /* flex: 33%; */
+  flex-direction: column;
+}
