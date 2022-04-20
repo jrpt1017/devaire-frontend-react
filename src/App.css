@@ -180,3 +180,28 @@
   letter-spacing: normal;
   color: #444;
 }
+
+.Price-Button {
+  width: 100%;
+  padding: 14px 24px 14px 20px;
+  box-shadow: 0px 1px 1px 0px rgba(1, 2, 0, 0.07);
+  border: solid 1px #ab2f2c;
+  background-color: #d9534f;
+  color: #f5f5f5;
+}
+
+.Price-Button-Title {
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.18px;
+  text-align: left;
+  color: #fff;
+}
+
+.Price-Card-Details {
+  text-align: center;
+}
