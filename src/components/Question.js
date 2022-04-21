@@ -3,7 +3,8 @@ import React from 'react'
 const Question = ({ item }) => {
   return (
     <div>
-      <p>{item}</p>
+      <p className="Question-Title">Q: How do i become an author?</p>
+      <p className="Question">{item}</p>
     </div>
   )
 }

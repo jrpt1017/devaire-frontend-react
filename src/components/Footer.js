@@ -5,7 +5,6 @@ const Footer = () => {
   return (
     <Box
       id="footer-container"
-
     >
       Footer
     </Box >

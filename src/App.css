@@ -45,16 +45,8 @@
   height: 142px;
   padding: 44px 229px 46px 230px;
   background-color: #000;
-  position: fixed;
   left: 0;
   bottom: 0;
-}
-
-.BG {
-  /* width: 1600px;
-  height: 3704px;
-  margin: 0 0 1px;
-  padding: 0 0 144px; */
 }
 
 .slider {
@@ -204,4 +196,87 @@
 
 .Price-Card-Details {
   text-align: center;
+}
+
+.Question {
+  width: 549px;
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.79;
+  letter-spacing: normal;
+  text-align: left;
+  color: #666;
+}
+
+.Question-Title {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #444;
+}
+
+.Sub-Footer {
+  padding-top: 61px;
+  margin-top: 81px;
+  height: 231px;
+  background-color: #f5f5f5;
+}
+
+.STARTERS-GUIDE-TO-CREATE-LANDING-PAGES {
+  font-family: Raleway;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.03;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444;
+  margin: unset;
+}
+
+.Building-a-Landing-Page-was-never-so-Easy-Interactive {
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444;
+}
+
+.btn-free-trial{
+  width: 322px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 1.9px;
+  background-color: #53777a;
+  color: #f5f5f5;
+}
+
+.btn-subscription {
+  width: 362px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 2.1px;
+  background-color: #c02942;
+  color: #f5f5f5;
+}
+
+.btn-label {
+  width: 1600px;
+  height: 315px;
+  margin: 81px 0 1px;
+  padding: 61px 455px 69px 370px;
+  background-color: #f5f5f5;
 }
